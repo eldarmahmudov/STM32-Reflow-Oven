@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>smdoven</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>CMSIS</name>
+			<type>2</type>
+			<location>C:/projects-prive/eclipse workspace/libraries/trunk/CMSIS</location>
+		</link>
+		<link>
+			<name>OneWire</name>
+			<type>2</type>
+			<location>C:/projects-prive/stm32f10x/libraries/OneWire</location>
+		</link>
+		<link>
+			<name>ST7565</name>
+			<type>2</type>
+			<location>C:/projects-prive/stm32f10x/libraries/ST7565</location>
+		</link>
+		<link>
+			<name>STM32F10xUSB</name>
+			<type>2</type>
+			<location>C:/projects-prive/stm32f10x/libraries/STM32F10xUSB</location>
+		</link>
+		<link>
+			<name>STM32F10x_StdPeriph_Driver</name>
+			<type>2</type>
+			<location>C:/projects-prive/stm32f10x/libraries/STM32F10x_StdPeriph_Driver</location>
+		</link>
+		<link>
+			<name>STM32F2xx_StdPeriph_Driver</name>
+			<type>2</type>
+			<location>C:/projects-prive/eclipse workspace/libraries/trunk/STM32F2xx_StdPeriph_Driver</location>
+		</link>
+		<link>
+			<name>SegDisplay</name>
+			<type>2</type>
+			<location>C:/projects-prive/eclipse workspace/libraries/trunk/SegDisplay</location>
+		</link>
+		<link>
+			<name>fat_sd</name>
+			<type>2</type>
+			<location>C:/projects-prive/eclipse workspace/libraries/trunk/fat_sd</location>
+		</link>
+	</linkedResources>
+</projectDescription>
